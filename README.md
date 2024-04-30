@@ -8,5 +8,5 @@ Template script for use with Paramiko. This is a good base to work from for auto
 This will load the hostnames defined in the file one by one and output the SSH command on them.
 
 # Requirements
-python3
-pip3 install paramiko
+python3<br>
+pip3 install paramiko<br>
